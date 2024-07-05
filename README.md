@@ -1,0 +1,2 @@
+libros de psicología.docx
+{"_id":"libros","startUrl":["https://www.amazon.com.mx/s?k=libros+de+psicologia&crid=274MM7Y0JSEAU&sprefix=libros+de+ps%2Caps%2C211&ref=nb_sb_ss_pltr-sample-20_1_12"],"selectors":[{"id":"Libros","parentSelectors":["_root"],"type":"SelectorLink","selector":"div:nth-of-type(n+4) .s-widget-container > span .s-padding-left-small a","multiple":true,"linkType":"linkFromHref"}]}
